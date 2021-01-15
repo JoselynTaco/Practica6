@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="ec.edu.epn.tdd.gateway.PaymentGatewayTest" time="0.031" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="ec.edu.epn.tdd.gateway.PaymentGatewayTest" time="0.041" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2020.3.1"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -45,7 +45,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/usr/lib/jvm/java-8-openjdk-amd64/jre"/>
-    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2020.3.1 test"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2020.3.1 package"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="es"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -63,6 +63,6 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="ec.edu.epn.tdd.gateway.PaymentGatewayTest" name="given_a_payment_when_is_correct_then_ok" time="0.03"/>
-  <testcase classname="ec.edu.epn.tdd.gateway.PaymentGatewayTest" name="given_a_payment_when_is_incorrect_then_error" time="0.001"/>
+  <testcase classname="ec.edu.epn.tdd.gateway.PaymentGatewayTest" name="given_a_payment_when_is_correct_then_ok" time="0.041"/>
+  <testcase classname="ec.edu.epn.tdd.gateway.PaymentGatewayTest" name="given_a_payment_when_is_incorrect_then_error" time="0"/>
 </testsuite>
