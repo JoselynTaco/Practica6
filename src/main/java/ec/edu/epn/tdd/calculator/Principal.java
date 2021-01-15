@@ -8,5 +8,9 @@ public class Principal {
          System.out.println(objCalculadora.addition(3,6));
          System.out.println("Resta:");
          System.out.println(objCalculadora.subtraction(3,6));
+         System.out.println("Multiplicacion:");
+         System.out.println(objCalculadora.multiplication(3,6));
+         System.out.println("Division:");
+         System.out.println(objCalculadora.division(6,3));
     }
 }
