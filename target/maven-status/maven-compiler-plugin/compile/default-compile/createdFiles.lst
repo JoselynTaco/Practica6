@@ -3,6 +3,6 @@ ec/edu/epn/tdd/gateway/PaymentResponse.class
 ec/edu/epn/tdd/calculator/Calculator.class
 ec/edu/epn/tdd/gateway/PaymentResponse$PaymentStatus.class
 ec/edu/epn/tdd/gateway/PaymentGateway.class
-ec/edu/epn/tdd/gateway/PaymentRequest.class
 ec/edu/epn/tdd/calculator/Principal.class
+ec/edu/epn/tdd/gateway/PaymentRequest.class
 ec/edu/epn/tdd/calculator/ICalculator.class

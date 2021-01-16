@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="ec.edu.epn.tdd.calculator.ICalculatorTest" time="0.099" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="ec.edu.epn.tdd.calculator.ICalculatorTest" time="1.052" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2020.3.1"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="15.0.1+9-18"/>
     <property name="sun.boot.library.path" value="/home/edison7905/.jdks/openjdk-15.0.1/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/home/edison7905/Documentos/JavaProjects/Practica6-master"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/edison7905/IdeaProjects/Practica6"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -14,7 +14,7 @@
     <property name="user.country" value="EC"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/edison7905/Documentos/JavaProjects/Practica6-master"/>
+    <property name="user.dir" value="/home/edison7905/IdeaProjects/Practica6"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="15.0.1+9-18"/>
     <property name="os.arch" value="amd64"/>
@@ -56,5 +56,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
   </properties>
-  <testcase classname="ec.edu.epn.tdd.calculator.ICalculatorTest" name="given_two_integers_when_addition_then_ok" time="0.099"/>
+  <testcase classname="ec.edu.epn.tdd.calculator.ICalculatorTest" name="given_two_integers_when_addition_then_ok" time="1.052"/>
 </testsuite>
